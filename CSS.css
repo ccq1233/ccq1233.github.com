@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-03-02 14:36:48
+ * @version $Id$
+ */
+#t1{
+	width: 800px;
+	height: 100px;
+	background-color: lightgray;
+}
+#t1 td{
+	width: 25%;
+}
+
+#t2{
+	width: 800px;
+	height: 100px;
+	background-color: gray;
+}
+#t3 td{
+	width: 25%;
+}
+#t3{
+	width: 800px;
+	height: 400px;
+	
+}
+#img1234{
+	width: 200px;
+}
+#img123
+{
+	width: 200px;
+}

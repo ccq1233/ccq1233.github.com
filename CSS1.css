@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-03-10 09:14:28
+ * @version $Id$
+ */
+ *{
+ 	margin: 0px;
+ 	padding: 0px;
+ 	border: 0px;
+ }
+#box1 {
+  width:800px;
+  height:100px;
+  margin-top:20px;
+  margin-bottom:20px;
+  background-color:lightgray;
+  border-color: black;
+}
+#box2 {
+  width:800px;
+  height:100px;
+  margin-top:10px;/*第二个盒子的上外边距为10像素*/
+  background-color:lightgray;
+}
