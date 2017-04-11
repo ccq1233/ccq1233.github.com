@@ -1,0 +1,123 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-06 14:23:07
+ * @version $Id$
+ */
+.bg-body-wholebg{
+	width: 800px;
+	height: 600px;
+	padding: 0px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: rgb(205,211,245);
+
+}
+.bg-body-firstbg{
+	width: 760px;
+	height: 120px;
+	margin: 20px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: rgb(153,189,144);
+	display: flex;
+    flex-direction: row;
+    }
+.bg-body-firstbg1{
+	width: 600px;
+	height: 120px;
+    display: flex;
+    flex-direction: row;
+    }   
+.bg-body-firstbg2{
+	width: 1600px;
+	height: 120px;
+	display: flex;
+    flex-direction: row-reverse;
+
+}
+.bg-body-infirstbg1{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: rgb(205,211,245);
+}
+.bg-body-secondbg{
+	width: 760px;
+	height: 420px;
+	margin: 20px;
+	border-style: solid;
+	border-width: 1px;
+	background-color: rgb(153,189,144);
+	display: flex;
+	flex-direction: row;
+}
+.bg-body-secondbg01{
+	width: 260px;
+	height: 420px;
+	display: flex;
+	flex-direction: column;
+}
+.bg-body-secondbg02{
+	width: 500px;
+	height: 420px;
+	display: flex;
+	flex-direction: column;
+
+}
+.bg-body-secondbg0{
+	width: 260px;
+	height: 340px;
+	
+}
+.bg-body-secondbg1{
+	width: 260px;
+	height: 80px;
+	display: flex;
+	flex-direction: row;
+}
+.bg-body-insecondbg0{
+	width: 200px;
+	height: 300px;
+	border-style: solid;
+	border-width: 1px;
+	margin:20px;
+	background-color: rgb(205,211,245);
+}
+.bg-body-insecondbg1{
+	width: 50px;
+	height: 50px;
+	border-style: solid;
+	border-width: 1px;
+	margin-left: 19px;
+	background-color: rgb(205,211,245);
+}
+.bg-body-insecondbg12{
+	width: 50px;
+	height: 50px;
+	border-style: solid;
+	border-width: 1px;
+	margin-left: 24px;
+	background-color: rgb(205,211,245);
+}
+.bg-body-insecondbg021{
+	width: 480px;
+	height: 40px;
+	border-style: solid;;
+	border-width: 1px;
+	margin-top: 20px;
+	background-color: rgb(205,211,245);
+
+}
+.bg-body-insecondbg02{
+	width: 480px;
+	height: 38px;
+	border-style: solid;;
+	border-width: 1px;
+	margin-top: 15px;
+	background-color: rgb(205,211,245);
+
+}
