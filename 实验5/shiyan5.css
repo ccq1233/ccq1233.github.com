@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-21 08:18:10
+ * @version $Id$
+ */
+.top1{
+	background: #58a; 
+   width: 100px;
+   height: 	25px;
+   border-radius: .8em .8em 0 0; 
+}
+.top2{
+	height: 10px;
+	width: 800px;
+	background: #58a;
+}
+.top3{
+	height: 50px;
+	width: 796px;
+	border-style: solid;
+    border-color:gray;
+    border-width: 0px 1px 1px 1px;
+}
+
+.top4{
+	height: 25px;
+	width: 796px;
+	background: lightyellow;
+    border-color:gray;
+	border-style: solid;
+    border-width: 0px 1px 1px 1px;
+
+}
+.top{
+	height: 150px;
+	width: 800px;
+}
+.middle{
+	height: 300px;
+	width: 800px;
+}
+.title1{
+width: 399px;
+height: 25px;
+align-items: center;
+justify-content: center;
+background-color: gray;
+float: left;
+margin-left: 2px;
+display: flex;
+}
+.title2{
+	display: flex;
+	width: 97px;
+	height: 25px;
+	align-items:center;
+	justify-content: center;
+	background-color:gray; 
+	margin-left: 2px;
+	float: left;
+}
+.name{
+	width: 800px;
+	height: 100px;
+	border-style: solid;
+	border-width: 0px 1px 1px 1px;
+	border-color: gray;
+    background-color: lightgray;
+    float: left;
+}
